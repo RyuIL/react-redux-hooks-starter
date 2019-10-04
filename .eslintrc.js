@@ -26,6 +26,9 @@ module.exports = {
         'no-underscore-dangle': 'off',
         'no-unused-state': 'off',
         'no-plusplus': 'off',
-        'consistent-return': 'off'
+        'consistent-return': 'off',
+        'no-param-reassign' : 'off',
+        'no-unused-vars' : 'off',
+        'object-curly-spacing' : 'off'
     }
 };
